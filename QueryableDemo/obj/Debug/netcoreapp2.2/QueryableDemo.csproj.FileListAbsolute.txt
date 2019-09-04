@@ -1,0 +1,11 @@
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\bin\Debug\netcoreapp2.2\QueryableDemo.deps.json
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\bin\Debug\netcoreapp2.2\QueryableDemo.runtimeconfig.json
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\bin\Debug\netcoreapp2.2\QueryableDemo.runtimeconfig.dev.json
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\bin\Debug\netcoreapp2.2\QueryableDemo.dll
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\bin\Debug\netcoreapp2.2\QueryableDemo.pdb
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.csprojAssemblyReference.cache
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.csproj.CoreCompileInputs.cache
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.AssemblyInfoInputs.cache
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.AssemblyInfo.cs
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.dll
+C:\Users\arupade\source\repos\QueryableDemo\QueryableDemo\obj\Debug\netcoreapp2.2\QueryableDemo.pdb
